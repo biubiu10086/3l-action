@@ -5,7 +5,7 @@
 
 ## 使用教程
 
-1. 直接fork走
+1. 直接fork走.
 2. 再在`Settings`-`Secrets`里面添加`USER`,`PSW`,`KEY`
 
 ##
